@@ -34,10 +34,11 @@ html {
 
 #portfolio img {
   width:80%;
+  margin-top:10px;
 }
 @media screen and (min-width:800px) {
   #portfolio img {
-    width:20%;
+    width:17%;
   }
 }
 

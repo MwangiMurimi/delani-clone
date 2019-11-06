@@ -9,11 +9,10 @@ html {
 #welcome {
   background-image: url(../images/backgrounds/h_img.jpg);
   background-size: cover;
-  height: 720px;
 }
 
 #aboutus {
-  height: 350px;
+  background-size:cover;
   color: black;
   text-align: center;
 }
@@ -21,11 +20,10 @@ html {
 #services {
   background-image: url(../images/backgrounds/s_image.jpg);
   background-size: cover;
-  height: 360px;
 }
 
 #whatwedo {
-  height: 250px;
+  background-size: cover;
   color: black;
 }
 

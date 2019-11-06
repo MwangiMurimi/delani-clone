@@ -115,7 +115,8 @@ textarea {
   display:none;
   font-family: monospace;
   position: absolute;
-  top:70%;
+  top:30%;
+  left:0%;
   width:100%;
 }
 

@@ -32,6 +32,15 @@ html {
   color: black;
 }
 
+#portfolio img {
+  width:80%;
+}
+@media screen and (min-width:800px) {
+  #portfolio img {
+    width:20%;
+}
+}
+
 #contactus {
   background-image: url(../images/backgrounds/c_image.jpg);
   background-size: cover;

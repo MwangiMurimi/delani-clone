@@ -28,14 +28,13 @@ html {
 }
 
 #portfolio {
-  height: 550px;
+  background-size:cover;
   color: black;
 }
 
 #contactus {
   background-image: url(../images/backgrounds/c_image.jpg);
   background-size: cover;
-  height: 500px;
 }
 
 #socials {

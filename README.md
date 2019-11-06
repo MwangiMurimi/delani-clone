@@ -1,4 +1,4 @@
-# Delani Studio 
+# Delani Studi
 #### Clone Landing Page for Delani Studios, Novemer 6, 2019
 #### By Mwangi Murimi
 ## Description

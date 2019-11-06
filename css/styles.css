@@ -111,48 +111,10 @@ textarea {
 .img-names {
   position: absolute;
   background-color: rgba(255, 255, 255);
-  height: 9%;
-  width: 17%;
   font-family: monospace;
   display: none;
 }
 
-#grey {
-  left: 14%;
-  top: 50%;
-}
-
-#mighty {
-  top: 50%;
-  left: 32.5%;
-}
-
-#orange {
-  top: 50%;
-  right: 32.5%;
-}
-
-#jim {
-  top: 50%;
-  right: 14%;
-}
-
-#elena {
-  bottom: 55%;
-  left: 14%;
-}
-
-#button {
-  bottom: 55%;
-  left: 32.5%;
-}
-
-#burn {
-  bottom: 55%;
-  right: 32.5%;
-}
-
-#giraffe {
-  bottom: 55%;
-  right: 14%;
+.imagecontainer {
+  position:relative;
 }

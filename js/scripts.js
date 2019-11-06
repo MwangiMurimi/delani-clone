@@ -1,6 +1,7 @@
 $(document).ready(function () {
   $("#mouseclick").click(function() {
     $("body").toggleClass("texture")
+    $(".img-names").toggleClass("texture")
   })
   $(".des").click(function () {
     $("#des-icon").toggle();
